@@ -418,7 +418,7 @@ export function NxWelcome({ title }: { title: string }) {
           <div id="welcome">
             <h1>
               <span>Hi there Michael and Zachary! </span>
-              <span>Change some stuff in this remote and restart the host to see micro front-end awesomeness, </span>
+              <span>Change some stuff in this remote and restart the host to see micro front-end awesomeness! </span>
 
               Welcome {title} 👋
             </h1>
